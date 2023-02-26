@@ -3,7 +3,7 @@ table{
 	border:1px solid blue;
 
 }
-tr, th, td{
+ th, td, tr{
 	border:1px solid blue;
 }
 h3{
@@ -13,8 +13,8 @@ h2{
 	background-color:black;
 	color:white;
 }
-
-b{
-	border:1px solid red;
+ul{
+	border:1px solid yellowgreen;
 }
+
 /* Your CSS Code here. */
