@@ -1,2 +1,19 @@
 
+table{
+	border:1px solid blue;
+
+}
+tr, th, td{
+	border:1px solid blue;
+}
+h3{
+	border:1px solid blue;
+}
+h2{
+	background-color:blue;
+}
+.container{
+	
+	
+}
 /* Your CSS Code here. */
