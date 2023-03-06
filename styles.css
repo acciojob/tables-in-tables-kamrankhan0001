@@ -2,11 +2,12 @@
 table{
 	border:1px solid blue;
 	
+	
 
 }
  th, td, tr{
 	border:1px solid blue;
-	 width:50%;
+	width:100px;
 	 
 }
 h3, h2{
@@ -26,11 +27,14 @@ h2{
 	width:50%
 }
 .left-container{
-	border:1px solid blue;
+	border:1px solid green;
 	display:flex;
 	
-	flex-direction:column;
-	
+	flex-direction:row;
+}
+ul{
+	border:1px solid red;
+
 }
 
 /* Your CSS Code here. */
