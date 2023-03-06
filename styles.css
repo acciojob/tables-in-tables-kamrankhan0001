@@ -1,20 +1,36 @@
 
 table{
 	border:1px solid blue;
+	
 
 }
  th, td, tr{
 	border:1px solid blue;
+	 width:50%;
+	 
 }
-h3{
+h3, h2{
 	border:1px solid blue;
+	width:50%;
 }
 h2{
 	background-color:black;
 	color:white;
+	
 }
-ul{
-	border:1px solid yellowgreen;
+
+.right-container{
+	border:1px solid yellow;
+	display:flex;
+	flex-direction:column;
+	width:50%
+}
+.left-container{
+	border:1px solid blue;
+	display:flex;
+	
+	flex-direction:column;
+	
 }
 
 /* Your CSS Code here. */
